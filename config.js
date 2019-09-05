@@ -1,6 +1,6 @@
 let config = {
-  httpPort: '3015',
-  wsPort: '3014',
+  httpPort: '8000',
+  wsPort: '8001',
   paths: {
     media: './media'
   }

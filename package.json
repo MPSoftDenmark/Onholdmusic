@@ -1,11 +1,11 @@
 {
-  "name": "stream",
-  "version": "1.0.0",
-  "description": "Audio stream app",
+  "name": "Onholdmusic",
+  "version": "1.0.1",
+  "description": "On Hold Music Audio stream app",
   "scripts": {
     "start": "babel-node --presets es2015 app.js"
   },
-  "author": "Alex Bolbosenco",
+  "author": "Martin Kraus Larsen",
   "dependencies": {
     "express": "^4.13.4",
     "file-loader": "^0.8.5",
